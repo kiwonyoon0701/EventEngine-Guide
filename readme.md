@@ -70,3 +70,55 @@
 
 
 
+---
+
+## Event Engine URL 생성 및 공유
+
+---
+
+1. `Export Team Hashes` Click하여 EE Hash URL을 Download
+
+![image-20220502121648288](images/image-20220502121648288.png)
+
+---
+
+2. 경고 창에서 `yes` Click
+
+![image-20220502121710000](images/image-20220502121710000.png)
+
+---
+
+3. Download csv file
+
+![image-20220502121750721](images/image-20220502121750721.png)
+
+---
+
+4. 사용자별로 F열의 `team-hash-login` 주소를 전달
+
+![image-20220502121930338](images/image-20220502121930338.png)
+
+---
+
+5. 각자 생성한 파일을 Event facilitator 에게 전달
+
+---
+
+### !!! 매우 중요 !!!
+
+### 위의 HASH File은 절대 Public Web에 게시하거나 유출이 되어서는 안됩니다. 
+
+### 유출 되서 Abuse가 될 경우 Event Engine을 만든 AWS 직원에게 경고와 함께 Justification 을 요구 할 수 있습니다.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
