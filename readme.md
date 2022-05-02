@@ -32,7 +32,7 @@
    Duration : 15
    
    Engagement Type : Immersion Day
-   SFDC Opportunity/Campaign ID : 7014z000001osV4AAI
+   SFDC Opportunity/Campaign ID : 
     
    ```
 
